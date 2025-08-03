@@ -38,13 +38,6 @@ Large Language Models (LLMs) such as GPT-4 and LLaMA-65B are powerful but comput
 - Case study: GPT-4 vs GPT-4 Mini
 - Memory & speed benchmarks using NVIDIA H100
 
-## 📁 Files in this Repository
-
-- `docs/llm_optimization_notes.pdf`: Full technical report
-- `notebooks/quantization_example.ipynb`: Post-training quantization demo
-- `scripts/pruning.py`: PyTorch-based structured pruning example
-- `student_model/`: Lightweight model from distillation pipeline
-
 ## 🧪 Tools & Frameworks
 
 - PyTorch
